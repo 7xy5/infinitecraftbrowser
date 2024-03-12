@@ -6,3 +6,4 @@
 
 ## --------------------------------
 [Steam](https://7xy5.github.io/infinitecraftbrowser/steam)
+[Mud](https://7xy5.github.io/infinitecraftbrowser/mud)
