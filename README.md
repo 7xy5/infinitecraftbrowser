@@ -2,4 +2,4 @@
 
 ### This list was made by skyssworld
 
-[Steam]
+[Steam](https://7xy5.github.io/infinitecraftbrowser/steam)
