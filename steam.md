@@ -1,5 +1,5 @@
-#Infinite Crafting Browser
+# Infinite Crafting Browser
 
-###How to make Steam
+### How to make Steam
 
-####Fire + Water = Steam
+#### Fire + Water = Steam
